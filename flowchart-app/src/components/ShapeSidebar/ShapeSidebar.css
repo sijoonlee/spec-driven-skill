@@ -1,0 +1,38 @@
+.shape-sidebar {
+  width: 160px;
+  flex-shrink: 0;
+  background: #fff;
+  border-right: 1px solid #ddd;
+  padding: 12px 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.sidebar-title {
+  font-weight: 600;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #666;
+  margin-bottom: 4px;
+}
+
+.draggable-shape {
+  padding: 8px 12px;
+  border: 1.5px solid #aaa;
+  border-radius: 4px;
+  background: #fafafa;
+  cursor: grab;
+  text-align: center;
+  font-size: 13px;
+  user-select: none;
+}
+
+.draggable-shape:hover {
+  background: #f0f4ff;
+  border-color: #6366f1;
+}
+
+.draggable-shape:active {
+  cursor: grabbing;
+}

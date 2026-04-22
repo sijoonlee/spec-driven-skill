@@ -1,0 +1,11 @@
+Uncaught Error: [React Flow]: Seems like you have not used zustand provider as an ancestor. Help: https://reactflow.dev/error#001
+    at useStoreApi (@reactflow_node-resizer.js?v=5c1fbe65:57:11)
+    at ResizeControl (@reactflow_node-resizer.js?v=5c1fbe65:3896:17)
+    at renderWithHooks (chunk-ZUTINFCF.js?v=5c1fbe65:11596:26)
+    at updateFunctionComponent (chunk-ZUTINFCF.js?v=5c1fbe65:14630:28)
+    at updateSimpleMemoComponent (chunk-ZUTINFCF.js?v=5c1fbe65:14511:18)
+    at updateMemoComponent (chunk-ZUTINFCF.js?v=5c1fbe65:14414:22)
+    at beginWork (chunk-ZUTINFCF.js?v=5c1fbe65:16025:22)
+    at HTMLUnknownElement.callCallback2 (chunk-ZUTINFCF.js?v=5c1fbe65:3680:22)
+    at Object.invokeGuardedCallbackDev (chunk-ZUTINFCF.js?v=5c1fbe65:3705:24)
+    at invokeGuardedCallback (chunk-ZUTINFCF.js?v=5c1fbe65:3739:39)

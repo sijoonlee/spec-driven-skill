@@ -1,0 +1,1 @@
+A React web application that enables users to create flowchart diagrams through a drag-and-drop interface. Users can drag pre-made flowchart elements (shapes and connectors) onto a canvas, arrange them, and generate corresponding Mermaid flowchart syntax. This initial version focuses exclusively on flowchart diagram support.
