@@ -246,7 +246,7 @@ Work through `spec/change-tasks.md` top to bottom. For each task:
 | Situation | Skill to use |
 |-----------|-------------|
 | Documenting an existing service | `reverse-spec` |
-| Building something new from scratch | `spec-driven` |
+| Building something new from scratch | `spec-driven-new-project` |
 | Adding a feature or refactoring existing code | `spec-driven-work-on-changes` (this skill) |
 
 The natural pipeline for a mature codebase: run `reverse-spec` once to create baseline docs, then use `spec-driven-work-on-changes` for every subsequent change.
